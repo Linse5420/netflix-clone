@@ -1,4 +1,5 @@
 Hi, this is a clone of netflix movie app, that i build using react. The app is just a single page application and has been deployed using firebase. The purpose of this app is to showcase my skills as a develope to my future employers and show how much i can work. I have used tmdb(https://www.themoviedb.org/movie) for extracating the apis for the movies along with react-youtube extention to induce the trailers into the app. The trailers corresponding to each movie will be automatically played while pressing it. Please review it, along with the video i have uploaded and i look forward to hear back from you.
+The link to the video is: https://stlawrencecollege.sharepoint.com/sites/combinedstudy/Shared%20Documents/General/Recordings/View%20Only/Meeting%20in%20_General_-20220616_162746-Meeting%20Recording.mp4?web=1
 
 ![3](https://user-images.githubusercontent.com/74924870/174156947-da6bc69a-5644-494e-b4bc-a843996eb394.png)
 ![4](https://user-images.githubusercontent.com/74924870/174156949-092b72ae-5f24-46de-83fc-35fd56e21101.png)
